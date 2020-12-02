@@ -1,0 +1,17 @@
+.footer {
+  background: #0984e3;
+  padding: 3rem 1rem 0 1rem;
+  height: 10rem;
+  text-align: center;
+  color: #fff;
+}
+
+.calendario {
+  width: 2rem;
+  height: 2rem;
+  fill: #fff;
+}
+
+.footer p {
+  margin-top: 1rem;
+}
